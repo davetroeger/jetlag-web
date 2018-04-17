@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Massively"
-baseURL = "http://localhost:1313/"
+baseURL = "https://davetroeger.github.io/jetlag-web/"
 theme = "../.."
 
 [params.posts]
